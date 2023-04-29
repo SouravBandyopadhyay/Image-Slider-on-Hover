@@ -3,6 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
+      <h1>Image Slider Effect </h1>
       <div className="container">
         <div className="card">
           <img
