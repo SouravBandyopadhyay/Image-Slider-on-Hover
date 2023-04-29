@@ -31,7 +31,7 @@ function App() {
         <div className="card">
           <img
             src="https://cdn.pixabay.com/photo/2013/04/04/12/34/mountains-100367__480.jpg"
-            alt="imageLink_broken"
+            alt="imageLink_brokenn"
           />
         </div>
       </div>
